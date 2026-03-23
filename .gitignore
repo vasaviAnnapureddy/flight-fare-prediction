@@ -1,0 +1,23 @@
+# Virtual Environment — NEVER push this
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+.ipynb_checkpoints/
+
+# Large model files — keep locally, Streamlit Cloud will rebuild
+# (comment out the .pkl line if you want to push the model)
+# flight_price_model.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
