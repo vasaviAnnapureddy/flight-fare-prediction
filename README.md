@@ -12,7 +12,7 @@
 
 ## 🔗 Live Demo
 
-**👉 [Open the Flight Fare Predictor App](https://vasaviannapureddy-flight-fare-prediction.streamlit.app)**  
+**👉 [Open the Flight Fare Predictor App](https://flight-fare-prediction-fappcggogtoxg36exkrzpqf.streamlit.app/)**  
 *(Deploy on Streamlit Cloud — instructions below)*
 
 ---
